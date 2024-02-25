@@ -1,5 +1,7 @@
 # Classificação de Falhas Elétricas
 
+[![License](https://img.shields.io/npm/l/react)](https://github.com/JadesonBruno/electrical-fault-classification/blob/main/LICENSE)
+
 ## Contexto do Projeto
 
 A linha de transmissão é um componente crucial do sistema de energia. À medida que a demanda por energia aumentou exponencialmente na era moderna, o papel central da linha de transmissão é transportar eletricidade da área de origem para a rede de distribuição. O sistema elétrico é composto por diversos elementos complexos e dinâmicos, sujeitos a perturbações e falhas.
